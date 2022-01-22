@@ -1,0 +1,46 @@
+body{
+    background-color: burlywood ;
+    background-image:#f06595 ;
+}
+.box{ 
+    width: 40vw;
+    height: 400px;
+    background-color: aquamarine;
+    padding: 20px;
+    margin: 30px;
+}
+#box2{
+    font-size: 50px;
+}
+li>a{
+    front: size 18px;
+    color: crimson;
+    text-decoration: none;
+}
+a:visited {
+    color: darkmagenta;
+}
+a:hover{
+    color: crimson;
+}
+
+.child{
+width: 50;
+height: 50%;
+background-color: greenyellow;
+}
+.nav li{display: inline-block;
+    position: relative;
+    left: 60%;
+    margin: 5px;
+
+  }
+.nav a{
+    text-decoration: none;
+    color: darkslategray;
+    font-size: 24px
+
+}
+p{font-size: 24px;
+
+}
